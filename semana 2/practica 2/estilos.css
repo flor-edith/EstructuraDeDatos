@@ -1,0 +1,24 @@
+/*Trabajando con estilos CSS*/
+/*CSS usa 3 tipos de selectores cada uno con un alcance propio son: clase, etiqueta y el id*/
+/*Primera practica clases*/
+
+.fondo{
+    background-color: rgb(1, 212, 212);
+}
+
+.miTexto{
+    font-size: 80px;
+    color: rgb(147, 0, 160);
+}
+
+/*Segunda Practica etiqueta*/
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #000000;
+}
+
+/*Tercera Practica Id*/
+#titulo{
+    font-size: 24;
+    color: rgb(255, 123, 0);
+}
